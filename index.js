@@ -18,7 +18,7 @@ document.addEventListener("keypress",function(event){
 function shout(key){
     switch(key)
     {
-        case 'w': new Audio("1.mp3").play();
+        case 'w': new Audio("7.mp3").play();
         case 'a': new Audio("2.mp3").play();
         case 's': new Audio("3.mp3").play();
         case 'd': new Audio("4.mp3").play();
